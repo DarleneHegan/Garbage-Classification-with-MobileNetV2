@@ -43,8 +43,8 @@ Pipeline pengembangan model dilakukan secara sistematis melalui tahapan berikut:
 ## 📈 Hasil Pemodelan (Ultimate Phase)
 Setelah melalui proses *fine-tuning* bertahap, model mencapai performa luar biasa pada iterasi final:
 
-| Metrik | Hasil Akurasi | Keterangan |
-|:---|:---:|:---|
+| Metrik | Hasil Akurasi | 
+|:---|:---:|
 | **Training Accuracy** | **~98.0%** | 
 | **Validation Accuracy** | **~94.7%** | 
 | **Testing Accuracy** | **~95.0%** | 
